@@ -79,6 +79,7 @@ label {
   align-items: center;
   font-size: 1.125rem;
   margin-bottom: 0.5rem;
+  
 }
 
 input,
@@ -121,6 +122,14 @@ button {
   margin-bottom: 1.875rem;
   
 }
+#quiz{
+  color:white;
+
+}
+#rating{
+  background-color: #8e3c3c93;
+
+}
 
 .description {
   
@@ -160,6 +169,7 @@ form {
 .form-group {
   margin: 0 auto 1.25rem auto;
   padding: 0.25rem;
+  color:rgb(254, 255, 254)
 
 }
 
@@ -169,7 +179,7 @@ form {
   height: 2.375rem;
   padding: 0.375rem 0.75rem;
   color: #010101;
-  background-color: #e9dee5ce;
+  background-color: #8e3c3c93;
   background-clip: padding-box;
   border: 1px solid #000000;
   border-radius: 0.40rem;
@@ -188,6 +198,8 @@ form {
   margin-right: 0.625rem;
   min-height: 1.25rem;
   min-width: 1.25rem;
+
+
 }
 
 .input-textarea {
@@ -195,7 +207,7 @@ form {
   width: 100%;
   padding: 0.625rem;
   resize: vertical;
-  background-color: #f3f2f2ef;
+  background-color: #8e3c3c93;
 }
 
 .submit-button {
